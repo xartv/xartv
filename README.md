@@ -10,3 +10,4 @@ A year ago I got acquainted with programming and it fascinated me very much, I c
 
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/xartv/)
+__xartvdev@gmail.com__
