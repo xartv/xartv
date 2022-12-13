@@ -9,5 +9,4 @@ A year ago I got acquainted with programming and it fascinated me very much, I c
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma) ![Photoshop](https://img.shields.io/badge/Photoshop-090909?style=for-the-badge&logo=AdobePhotoshop)
 
 ### Follow me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/xartv/)  
-__xartvdev@gmail.com__
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/xartv/)
